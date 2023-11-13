@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  I'm Blessing James, a Developer and Designer based in Nigeria 🚀
 
 <!--
 **DuoDduo/DuoDduo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I'm Blessing James, a Developer and Designer based in Nigeria 🚀
+
 
 Welcome to my GitHub space! I'm passionate about crafting meaningful digital experiences through code and design. Let me give you a brief tour of my skills and journey:
 
