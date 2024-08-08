@@ -21,8 +21,7 @@ Welcome to my GitHub space! I'm passionate about crafting meaningful digital exp
 
 ## 💻 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Angular, React
-- **Backend:** C#, Java
+- **Frontend:** HTML, CSS, JavaScript,React, TypeScript
 - **Design:** Figma, Photoshop, Adobe Illustrator
 - **Mobile:** Dart, Flutter
 
@@ -44,7 +43,7 @@ With a keen eye for design, I specialize in bringing ideas to life with clean, i
 
 - **LinkedIn:**Blessing James
 - **Email:** pelubs2956@gmail.com
-- Instagram @beejaygfx
+- Instagram @d_blessing_james
 
 Feel free to explore my repositories, where I've poured my heart and soul into various projects. I'm always open to collaboration and discussions. Let's connect and create something amazing together! 🚀
 
