@@ -1,29 +1,12 @@
 ### Hi there 👋  I'm Blessing James, a Developer and Designer based in Nigeria 🚀
 
-<!--
-**DuoDduo/DuoDduo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-Welcome to my GitHub space! I'm passionate about crafting meaningful digital experiences through code and design. Let me give you a brief tour of my skills and journey:
+Welcome to my space! I'm passionate about crafting meaningful digital experiences through code and design. Let me give you a brief tour of my skills and journey:
 
 ## 💻 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript,React, TypeScript
 - **Design:** Figma, Photoshop, Adobe Illustrator
-- **Mobile:** Dart, Flutter
 
 ## 💼 Education 
 Aptech Computer Education 
@@ -33,7 +16,7 @@ ADSE
 
 ## 🌱 Currently Exploring
 
-I'm currently immersed in mobile app development with Flutter], delving into the latest technologies and frameworks to stay on the cutting edge and broaden my skill set.
+I'm currently immersed in AI Engineering, delving into the latest technologies and frameworks to stay on the cutting edge and broaden my skill set.
 
 ## 🎨 Design Enthusiast
 
@@ -41,7 +24,7 @@ With a keen eye for design, I specialize in bringing ideas to life with clean, i
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:**Blessing James
+- **LinkedIn:https://www.linkedin.com/in/blessing-james-6b541829b
 - **Email:** pelubs2956@gmail.com
 - Instagram @d_blessing_james
 
