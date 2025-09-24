@@ -24,9 +24,9 @@ With a keen eye for design, I specialize in bringing ideas to life with clean, i
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:https://www.linkedin.com/in/blessing-james-6b541829b
-- **Email:** pelubs2956@gmail.com
-- Instagram @d_blessing_james
+- LinkedIn: https://www.linkedin.com/in/blessing-james-6b541829b
+- Email: pelubs2956@gmail.com
+- Instagram:  @d_blessing_james
 
 Feel free to explore my repositories, where I've poured my heart and soul into various projects. I'm always open to collaboration and discussions. Let's connect and create something amazing together! 🚀
 
